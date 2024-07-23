@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://webhook.site/b2b92f77-b546-4c0c-a930-37d00ceee347",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
